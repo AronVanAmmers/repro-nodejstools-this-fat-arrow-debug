@@ -1,0 +1,15 @@
+{
+  "name": "repro-nodejstools-this-members",
+  "version": "0.0.0",
+  "description": "repro-nodejstools-this-members",
+  "main": "app.js",
+  "author": {
+    "name": "Aron",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
